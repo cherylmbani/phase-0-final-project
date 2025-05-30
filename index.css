@@ -60,7 +60,7 @@ main{
 }
 #contact{
     background-color: #f9f9f9;
-    padding:60px 20px;
+    padding:60px;
     text-align: center;
     margin-top: 20px;
 }
@@ -71,7 +71,7 @@ main{
     margin-bottom: 10px;
 }
 #contact p{
-    font-size: 25px;
+    font-size: 20px;
     color: #666;
     margin-top: 30px;
     margin-bottom: 30px;
