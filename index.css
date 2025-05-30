@@ -13,7 +13,7 @@ nav ul{
     gap: 30px;
 }
 .hero{
-    background: linear-gradient(135deg, #f5f7f9 #c3cfe2);
+    background-color: linear-gradient(to right, #6a11cb, #2575fc);
     background-image: url("https://images.unsplash.com/photo-1536859355448-76f92ebdc33d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHByb2dyYW1taW5nfGVufDB8fDB8fHww");
     background-repeat: no-repeat;
     background-size: cover;
@@ -33,7 +33,7 @@ main{
     background-image: url("image.jpeg");
 }
 #about{
-    background-color: #f5f7fa;
+    background-color: rgba(17, 17, 17);
     color:white;
 }
 #about h2{
@@ -41,7 +41,7 @@ main{
     text-align: center;
 }
 #portfolio{
-    background-color: #f0f8ff;
+    background-color: rgba(70, 26, 70, 0.8);
 }
 #portfolio h2{
     color: aqua;
@@ -51,7 +51,7 @@ main{
     padding: 20px;
 }
 #skills{
-    background-color: #f0f8ff;
+    background-color: #00100099;
     padding:20px;
 }
 #skills h2{
