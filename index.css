@@ -18,9 +18,10 @@ nav ul{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    padding: 100px 30px;
+    padding: 60px 20px;
     text-align: center;
     color: goldenrod;
+    font-size: 20px;
 }
 .hero-content{
     max-width: 800px;
@@ -33,4 +34,26 @@ main{
 #about{
     background-color: #f5f7fa;
     color:white;
+}
+#about h2{
+    color: aqua;
+    text-align: center;
+}
+#portfolio{
+    background-color: #f0f8ff;
+}
+#portfolio h2{
+    color: aqua;
+    text-align: center;
+}
+.projects{
+    padding: 20px;
+}
+#skills{
+    background-color: #f0f8ff;
+    padding:20px;
+}
+#skills h2{
+    color:aqua;
+    text-align: center;
 }
