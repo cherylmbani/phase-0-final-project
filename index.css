@@ -33,7 +33,7 @@ main{
     background-image: url("image.jpeg");
 }
 #about{
-    background-color: rgba(17, 17, 17);
+    background-color: rgba(40, 40, 40, 0.8);
     color:white;
 }
 #about h2{
@@ -41,7 +41,7 @@ main{
     text-align: center;
 }
 #portfolio{
-    background-color: rgba(70, 26, 70, 0.8);
+    background-color: rgba(85, 85, 85, 0.8);
 }
 #portfolio h2{
     color: aqua;
@@ -51,7 +51,7 @@ main{
     padding: 20px;
 }
 #skills{
-    background-color: #00100099;
+    background-color: #a9a9a9;
     padding:20px;
 }
 #skills h2{
@@ -59,7 +59,7 @@ main{
     text-align: center;
 }
 #contact{
-    background-color: #f9f9f9;
+    background-color: #d3d3d3;
     padding:60px;
     text-align: center;
     margin-top: 20px;
