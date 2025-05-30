@@ -30,6 +30,7 @@ nav ul{
 }
 main{
     padding: 40px 10px;
+    background-image: url("image.jpeg");
 }
 #about{
     background-color: #f5f7fa;
@@ -56,4 +57,42 @@ main{
 #skills h2{
     color:aqua;
     text-align: center;
+}
+#contact{
+    background-color: #f9f9f9;
+    padding:60px 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+#contact h2{
+    color: aqua;
+    font-size: 32px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#contact p{
+    font-size: 25px;
+    color: #666;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#contact form{
+    max-width: 50px;
+    margin: 0, auto;
+    flex-direction: row;
+    gap: 20px;
+    font-size: 15px;
+}
+#contact button{
+    background-color: #007BFF;
+    color: white;
+    padding: 15px;
+    font-size: 13px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+contact button:hover{
+    background-color: #0056b3;
 }
