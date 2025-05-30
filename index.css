@@ -21,7 +21,7 @@ nav ul{
     padding: 60px 20px;
     text-align: center;
     color: goldenrod;
-    font-size: 20px;
+    font-size: 40px;
 }
 .hero-content{
     max-width: 800px;
@@ -31,6 +31,10 @@ nav ul{
 main{
     padding: 40px 10px;
     background-image: url("image.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 20px;
 }
 #about{
     background-color: rgba(40, 40, 40, 0.8);
@@ -41,7 +45,7 @@ main{
     text-align: center;
 }
 #portfolio{
-    background-color: rgba(85, 85, 85, 0.8);
+    background-color: rgba(42, 42, 42, 0.8);
 }
 #portfolio h2{
     color: aqua;
@@ -51,7 +55,7 @@ main{
     padding: 20px;
 }
 #skills{
-    background-color: #a9a9a9;
+    background-color: rgba(35, 35, 35, 0.6);
     padding:20px;
 }
 #skills h2{
@@ -59,7 +63,7 @@ main{
     text-align: center;
 }
 #contact{
-    background-color: #d3d3d3;
+    background-color: #232323;
     padding:60px;
     text-align: center;
     margin-top: 20px;
